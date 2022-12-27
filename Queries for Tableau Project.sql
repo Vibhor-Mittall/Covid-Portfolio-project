@@ -2,7 +2,6 @@
 
 Queries used for creating tables for visualisaton
 
-
 */
 
 -- 1. 
@@ -12,7 +11,6 @@ From `portfolio-project2022.covid_data.covidDeaths`
 where continent is not null 
 --Group By date
 order by 1,2
-
 
 
 
